@@ -1,5 +1,5 @@
 mountpoints:
 /:
-  url: http://172.52.50.83:4502/sites.html/content/Harshal-28200/EDS_demo_Repo/main
+  url: http://172.52.60.31:4502/sites.html/content/Harshal-28200/EDS_demo_Repo/main
   type: "markup"
   suffix: ".html"
